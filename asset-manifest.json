@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-interview-portal/static/css/main.e6c13ad2.css",
+    "main.js": "/ai-interview-portal/static/js/main.67b80cac.js",
+    "static/js/453.7d853101.chunk.js": "/ai-interview-portal/static/js/453.7d853101.chunk.js",
+    "index.html": "/ai-interview-portal/index.html",
+    "main.e6c13ad2.css.map": "/ai-interview-portal/static/css/main.e6c13ad2.css.map",
+    "main.67b80cac.js.map": "/ai-interview-portal/static/js/main.67b80cac.js.map",
+    "453.7d853101.chunk.js.map": "/ai-interview-portal/static/js/453.7d853101.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.67b80cac.js"
+  ]
+}
